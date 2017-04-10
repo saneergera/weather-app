@@ -1,0 +1,105 @@
+body 
+{
+
+
+	background-image: url("sample.jpg");
+	margin: 0px;
+	padding: 0px;
+	background-size: cover;
+	}
+
+
+#icon
+{
+
+	position: relative;
+	top: -120px;
+	height: 50px;
+	width: 50px;
+	margin-left: 100px;
+	background-color: white;
+	border-radius: 20px;
+
+}
+
+
+.container-2
+{
+
+
+display: block;
+
+	margin: auto;
+	font-family: "Times New Roman", Georgia, Serif;
+	color: white;
+	height: 280px;
+	width: 500px;
+	 background: rgba(0, 0, 0, 0.5);
+	position: relative;
+	top: 250px;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 40px;
+
+
+}
+
+
+.container
+{
+
+	display: none;
+
+	margin: auto;
+	font-family: "Times New Roman", Georgia, Serif;
+	color: white;
+	height: 280px;
+	width: 500px;
+	 background: rgba(0, 0, 0, 0.5);
+	position: relative;
+	top: 250px;
+	border-radius: 30px;
+}
+#city
+{
+
+font-size: 40px;
+position: relative;
+margin-left: 60%;
+
+}
+
+#temp
+{
+
+	font-size: 60px;
+	margin-left: 58%;
+	position: relative;
+	}
+#date
+{
+
+	position: relative;
+	top: 30px;
+	margin-left: 58%;
+	font-size: 30px;
+}
+#time 
+{
+
+
+	position: relative;
+	top: 60px;
+	margin-left: 59%;
+	font-size: 30px;
+}
+#data
+{
+
+position: relative;
+font-size: 30px;
+top:130px;
+margin-left: 20%;
+
+
+}

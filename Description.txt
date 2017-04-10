@@ -1,0 +1,1 @@
+Again In this i have used an API to get location and Weather detail of that location
